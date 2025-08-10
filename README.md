@@ -10,10 +10,10 @@ enhancement, medical imaging, and surveillance.
 <h5>Dataset</h5>
 The dataset used in this project can be found on Kaggle: [Blur images dataset]
 ((https://drive.google.com/drive/folders/1g-Vvqvb0iJ0KNtSAEvuVtVYbtiQKk5Qz?usp=sharing)). 
-<h5>Trained Model>
+<h5>Trained Model</h5?
   The final Generator and Discriminator Models:
   ((https://drive.google.com/drive/folders/1DOYDiVM7znDe1V6y3NW_tdGp_Xmv-h5t?usp=sharing))
 <h5>Output</h5>
 <p align="center">
-  <img src="https://github.com/thrishareddy2151/crop_yeild_prediction/blob/main/Crop-Yield.png?raw=true" alt="earthml Logo">
+  <img src="(https://github.com/thrishareddy2151/Image_Restoration/blob/main/updated_sample_epoch_80.png?raw=true)" alt="earthml Logo">
 </p>
