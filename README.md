@@ -15,5 +15,5 @@ The dataset used in this project can be found on Kaggle: [Blur images dataset]
   ((https://drive.google.com/drive/folders/1DOYDiVM7znDe1V6y3NW_tdGp_Xmv-h5t?usp=sharing))
 <h5>Output</h5>
 <p align="center">
-  <img src="(https://github.com/thrishareddy2151/Image_Restoration/blob/main/updated_sample_epoch_80.png?raw=true)"> 
+  <img src="(https://github.com/thrishareddy2151/Image_Restoration/blob/main/updated_sample_epoch_80.png?raw=true)"alt="earthml Logo"> 
 </p>
